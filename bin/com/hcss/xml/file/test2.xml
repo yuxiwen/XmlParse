@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MSG>
+	<META>
+		<SNDR>FIMS</SNDR>
+		<RCVR></RCVR>
+		<SEQN>1</SEQN>
+		<DDTM>2010010223000</DDTM>
+		<TYPE>DFME</TYPE>
+		<STYP>CFCE</STYP>
+	</META>
+	<DFLT>
+		<FLID>657423</FLID> 
+		<FFID>3U-8898-20100103081030-D</FFID>
+		<FLTK>W/Z</FLTK>
+		<CFTP>A320</CFTP>
+        <CFNO>B3323</CFNO>
+	</DFLT>
+</MSG>
