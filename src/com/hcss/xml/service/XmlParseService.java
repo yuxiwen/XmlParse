@@ -34,7 +34,7 @@ public interface XmlParseService {
     /**
      * 批量操作
      *
-     * @param fileList
+     * @param files
      */
     public void batchExecByFiles(List<File> files);
 
